@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f15b5494.css",
-    "main.js": "/static/js/main.81d640f1.js",
+    "main.js": "/static/js/main.72536898.js",
     "static/js/239.315e2ef0.chunk.js": "/static/js/239.315e2ef0.chunk.js",
     "static/js/977.79f92eec.chunk.js": "/static/js/977.79f92eec.chunk.js",
     "static/js/553.22654df7.chunk.js": "/static/js/553.22654df7.chunk.js",
@@ -10,6 +10,7 @@
     "static/media/building.jpeg": "/static/media/building.c48d619385af7edc7c81.jpeg",
     "static/media/renovation.png": "/static/media/renovation.57ed5564c0e714864d81.png",
     "static/media/construction3d.jpg": "/static/media/construction3d.6e66883ef23ea18a8f36.jpg",
+    "static/media/exp-constru-resources.jpeg": "/static/media/exp-constru-resources.57ed36c386a0eca1031e.jpeg",
     "static/media/Constructionelevation.jpg": "/static/media/Constructionelevation.2e1e1ba13732cd6d4dca.jpg",
     "static/media/house.jpeg": "/static/media/house.05cab0f00c6d04b82c0a.jpeg",
     "static/media/Leasebuilding.png": "/static/media/Leasebuilding.f69dc58fe4ddc8beead3.png",
@@ -27,13 +28,13 @@
     "static/media/image-asset.jpeg": "/static/media/image-asset.4c852b4e63ee8481e136.jpeg",
     "static/media/sofacurtain.jpg": "/static/media/sofacurtain.cd68103f135bcce38b53.jpg",
     "static/media/carpenter.jpg": "/static/media/carpenter.b722b27265f5b79e2894.jpg",
-    "static/media/construction2d.jpg": "/static/media/construction2d.f7404547778a18b0c01c.jpg",
     "static/media/homeclean.jpg": "/static/media/homeclean.d04073d6759204c913ab.jpg",
     "static/media/toiletkitchen.jpg": "/static/media/toiletkitchen.75dbf1073e57d602d233.jpg",
     "static/media/rent.jpg": "/static/media/rent.6e4b8425bcb7b62aff4c.jpg",
     "static/media/logo.jpg": "/static/media/logo.a1f8279ef6b1b2538d7c.jpg",
     "static/media/gardener.jpg": "/static/media/gardener.7ad5a3f2701c0964d81a.jpg",
     "static/media/house1.jpg": "/static/media/house1.0bb5a85334c8ccd48d87.jpg",
+    "static/media/2dnewpic.jpg": "/static/media/2dnewpic.75a7a999e965cdc04d72.jpg",
     "static/media/3delevation.jpg": "/static/media/3delevation.fbb5c4ca5b7edcf905f9.jpg",
     "static/media/LandNestLogo.jpg": "/static/media/LandNestLogo.95aa7a4cc53660ab71b6.jpg",
     "static/media/landnest-logo.jpg": "/static/media/landnest-logo.95aa7a4cc53660ab71b6.jpg",
@@ -72,7 +73,7 @@
     "static/media/plumbing.webp": "/static/media/plumbing.2c51c540bd2bda64f4fa.webp",
     "index.html": "/index.html",
     "main.f15b5494.css.map": "/static/css/main.f15b5494.css.map",
-    "main.81d640f1.js.map": "/static/js/main.81d640f1.js.map",
+    "main.72536898.js.map": "/static/js/main.72536898.js.map",
     "239.315e2ef0.chunk.js.map": "/static/js/239.315e2ef0.chunk.js.map",
     "977.79f92eec.chunk.js.map": "/static/js/977.79f92eec.chunk.js.map",
     "553.22654df7.chunk.js.map": "/static/js/553.22654df7.chunk.js.map",
@@ -80,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.f15b5494.css",
-    "static/js/main.81d640f1.js"
+    "static/js/main.72536898.js"
   ]
 }
