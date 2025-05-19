@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f15b5494.css",
-    "main.js": "/static/js/main.72536898.js",
+    "main.js": "/static/js/main.2d74acc0.js",
     "static/js/239.315e2ef0.chunk.js": "/static/js/239.315e2ef0.chunk.js",
     "static/js/977.79f92eec.chunk.js": "/static/js/977.79f92eec.chunk.js",
     "static/js/553.22654df7.chunk.js": "/static/js/553.22654df7.chunk.js",
@@ -41,7 +41,6 @@
     "static/media/Electrical.jpg": "/static/media/Electrical.feb3663c17263fcfcd51.jpg",
     "static/media/gaspipe.jpg": "/static/media/gaspipe.7368adedf6f2d7765af9.jpg",
     "static/media/renovation.jpeg": "/static/media/renovation.7b2ba5f233649e445c73.jpeg",
-    "static/media/paintings1.jpg": "/static/media/paintings1.440283dc33e27995508e.jpg",
     "static/media/columnfoundation.jpg": "/static/media/columnfoundation.0c23d66fc16448434ea6.jpg",
     "static/media/column_marking.webp": "/static/media/column_marking.7fdf37f53fedb702f74a.webp",
     "static/media/fullhome.jpg": "/static/media/fullhome.fc7bc9f6f4d8fe5b836c.jpg",
@@ -56,7 +55,6 @@
     "static/media/studyroom.webp": "/static/media/studyroom.f7fbf3a2d01fa2dc0449.webp",
     "static/media/roofconcreate.jpg": "/static/media/roofconcreate.7b9613eff0e6d89aa0f5.jpg",
     "static/media/paintings.jpg": "/static/media/paintings.38256081eb31272d52a7.jpg",
-    "static/media/doors-windows.jpg": "/static/media/doors-windows.a85defec60b3c64fbf87.jpg",
     "static/media/soiltest.webp": "/static/media/soiltest.e94308f91124813e45de.webp",
     "static/media/handover.jpg": "/static/media/handover.b5f512817a46c1e4a600.jpg",
     "static/media/flooring.jpg": "/static/media/flooring.d124a0c5b2d49c7da282.jpg",
@@ -73,7 +71,7 @@
     "static/media/plumbing.webp": "/static/media/plumbing.2c51c540bd2bda64f4fa.webp",
     "index.html": "/index.html",
     "main.f15b5494.css.map": "/static/css/main.f15b5494.css.map",
-    "main.72536898.js.map": "/static/js/main.72536898.js.map",
+    "main.2d74acc0.js.map": "/static/js/main.2d74acc0.js.map",
     "239.315e2ef0.chunk.js.map": "/static/js/239.315e2ef0.chunk.js.map",
     "977.79f92eec.chunk.js.map": "/static/js/977.79f92eec.chunk.js.map",
     "553.22654df7.chunk.js.map": "/static/js/553.22654df7.chunk.js.map",
@@ -81,6 +79,6 @@
   },
   "entrypoints": [
     "static/css/main.f15b5494.css",
-    "static/js/main.72536898.js"
+    "static/js/main.2d74acc0.js"
   ]
 }
