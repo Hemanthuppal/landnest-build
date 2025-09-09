@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f1d5af8b.css",
-    "main.js": "/static/js/main.b95291c1.js",
+    "main.js": "/static/js/main.4802efaf.js",
     "static/js/239.315e2ef0.chunk.js": "/static/js/239.315e2ef0.chunk.js",
     "static/js/977.79f92eec.chunk.js": "/static/js/977.79f92eec.chunk.js",
     "static/js/553.22654df7.chunk.js": "/static/js/553.22654df7.chunk.js",
@@ -11,6 +11,7 @@
     "static/media/renovation.png": "/static/media/renovation.57ed5564c0e714864d81.png",
     "static/media/construction3d.jpg": "/static/media/construction3d.6e66883ef23ea18a8f36.jpg",
     "static/media/exp-constru-resources.jpeg": "/static/media/exp-constru-resources.57ed36c386a0eca1031e.jpeg",
+    "static/media/Quotations.png": "/static/media/Quotations.20ae57a8164623f7597f.png",
     "static/media/Constructionelevation.jpg": "/static/media/Constructionelevation.2e1e1ba13732cd6d4dca.jpg",
     "static/media/house.jpeg": "/static/media/house.05cab0f00c6d04b82c0a.jpeg",
     "static/media/Leasebuilding.png": "/static/media/Leasebuilding.f69dc58fe4ddc8beead3.png",
@@ -67,11 +68,12 @@
     "static/media/luxury.webp": "/static/media/luxury.9482fb1c1065092e3b88.webp",
     "static/media/roofbarbending.jpg": "/static/media/roofbarbending.c87e44736abed045d96b.jpg",
     "static/media/Landscaping.jpeg": "/static/media/Landscaping.58e7fe6206daf8cb0f94.jpeg",
+    "static/media/Userimage.png": "/static/media/Userimage.0b466e110e73b5ae4dd9.png",
     "static/media/constructionpackages.jpeg": "/static/media/constructionpackages.c4db6c1ed8912f87c10e.jpeg",
     "static/media/plumbing.webp": "/static/media/plumbing.2c51c540bd2bda64f4fa.webp",
     "index.html": "/index.html",
     "main.f1d5af8b.css.map": "/static/css/main.f1d5af8b.css.map",
-    "main.b95291c1.js.map": "/static/js/main.b95291c1.js.map",
+    "main.4802efaf.js.map": "/static/js/main.4802efaf.js.map",
     "239.315e2ef0.chunk.js.map": "/static/js/239.315e2ef0.chunk.js.map",
     "977.79f92eec.chunk.js.map": "/static/js/977.79f92eec.chunk.js.map",
     "553.22654df7.chunk.js.map": "/static/js/553.22654df7.chunk.js.map",
@@ -79,6 +81,6 @@
   },
   "entrypoints": [
     "static/css/main.f1d5af8b.css",
-    "static/js/main.b95291c1.js"
+    "static/js/main.4802efaf.js"
   ]
 }
